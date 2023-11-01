@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/ak47smoker" target="blank"><img src="https://img.shields.io/twitter/follow/ak47smoker?logo=twitter&style=for-the-badge" alt="ak47smoker" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Project**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **React Native, NoSql Database**
+- 🌱 I’m currently learning **Next.Js, NoSql Database**
 
-- 👨‍💻 All of my projects are available at [rbzium.netlify.app](rbzium.netlify.app)
+- 👨‍💻 All of my projects are available at [shumail.netlify.app](shumail.netlify.app)
 
-- 💬 Ask me about **Reactjs, Nodejs, JavaScript**
+- 💬 Ask me about **Reactjs, Nodejs, Mongo DB & JavaScript**
 
-- 📫 How to reach me **mushtaqmuhammadshumail@gmail.com**
+- 📫 How to reach me **muhammadshumailmushtaq@gmail.com**
 
-- ⚡ Fun fact **I think i am Johny Sins**
+- ⚡ Fun fact **I think I'm Noob**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
