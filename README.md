@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.Js, NoSql Database**
 
-- 👨‍💻 All of my projects are available at [shumail.netlify.app](shumail.netlify.app)
+- 👨‍💻 All of my projects are available at [dev-shumail.vercel.app](dev-shumail.vercel.app)
 
 - 💬 Ask me about **Reactjs, Nodejs, Mongo DB & JavaScript**
 
